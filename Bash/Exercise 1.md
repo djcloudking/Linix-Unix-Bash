@@ -30,7 +30,7 @@ Type this command "**touch 1.xls 2. xls 3. xls**"
 
 - Copy all text files in Ex3 to "Stuff"
 
-Type this command "**cp *.txt Stuff**"
+Type this command "cp *.txt Stuff"
 
 ![image](https://github.com/djcloudking/Linix-Unix-Bash/assets/122766532/8b414bc2-e6a7-4f80-9051-4e3723f5784e)
 
